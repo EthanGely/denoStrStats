@@ -2,5 +2,6 @@
   "name": "@ethangely/strstats",
   "version": "0.1.0",
   "license": "MIT",
-  "exports": "./strstats.ts"
+  "exports": "./strstats.ts",
+  "readme": "./README.md"
 }
