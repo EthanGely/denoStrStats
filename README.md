@@ -11,7 +11,7 @@ This project returns the statistics of a string in an array. It counts the numbe
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/denoTest.git
+    git clone https://github.com/EthanGely/denoTest.git
     cd denoTest
     ```
 
