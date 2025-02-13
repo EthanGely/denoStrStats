@@ -17,13 +17,12 @@ This project returns the statistics of a string in an array. It counts the numbe
 
 2. Run the main script:
     ```sh
-    deno run --allow-net main.ts
+    deno run --allow-net strstats.ts
     ```
 
 ## Project Structure
 
-- `main.ts`: The main entry point of the application.
-- `utils/`: Directory containing utility functions.
+- `strstats.ts`: The main entry point of the application.
 
 ## License
 
